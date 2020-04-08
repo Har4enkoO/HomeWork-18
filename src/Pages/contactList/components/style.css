@@ -1,0 +1,26 @@
+
+.contact {
+  margin: 0;
+  border: 2px solid black;
+  list-style-type: none;
+}
+.phone {  
+  border: 2px solid black;
+  margin: auto;
+  margin-top: 50px;
+  width: 300px;
+}
+.search {
+  padding-top: 5px;
+  padding-bottom: 5px;  
+  border: 2px solid black;
+}
+.input {  
+  border: none;
+  outline: none;
+}
+.checkboxes {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border: 2px solid black;
+}

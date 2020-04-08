@@ -6,8 +6,15 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+nav ul li {
+  display: inline;
+  margin-left: 30px;
+}
+.home {
+  margin: 100px;
 }
